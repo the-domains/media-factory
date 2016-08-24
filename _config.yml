@@ -1,0 +1,14 @@
+layout_spectrum: 0.3817681090440601
+typography_spectrum: 0.2668706541880965
+color:
+  brandStrength: 0.6081811250187457
+  lightness: 0.3705077404156327
+  saturation: 0.25810518907383084
+  rhythmicContrast: 0.6885152629110962
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Media Factory
