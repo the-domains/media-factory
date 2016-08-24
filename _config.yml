@@ -1,4 +1,3 @@
-layout_spectrum: 0.3817681090440601
 typography_spectrum: 0.2668706541880965
 color:
   brandStrength: 0.6081811250187457
@@ -6,9 +5,11 @@ color:
   saturation: 0.25810518907383084
   rhythmicContrast: 0.6885152629110962
   brandColors:
-    - '#A3D8E2'
-    - '#2DAAE1'
-    - '#154295'
-    - '#F39200'
-    - '#E94E1B'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.3817681090440601
 name: Media Factory
+title: Where Stories come to Life
