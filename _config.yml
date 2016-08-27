@@ -1,15 +1,27 @@
-typography_spectrum: 0.2668706541880965
+title: Where Stories come to Life
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.6081811250187457
+  saturation: 0.2581051890738308
+  brandStrength: 1
   lightness: 0.3705077404156327
-  saturation: 0.25810518907383084
-  rhythmicContrast: 0.6885152629110962
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-layout_spectrum: 0.3817681090440601
+  rhythmicContrast: 0.6885152629110962
+typography_spectrum: 0.2668706541880965
+layout_spectrum: 1
 name: Media Factory
-title: Where Stories come to Life
